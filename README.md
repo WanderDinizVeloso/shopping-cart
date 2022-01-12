@@ -16,6 +16,8 @@ O currículo da Trybe foi desenhado em parceria com as maiores empresas de tecno
 
 ## SUMÁRIO
 
+- [Habilidades desenvolvidas](#habilidades-desenvolvidas)
+- [Tecnologias utilizadas](#tecnologias-utilizadas)
 - [Requisitos do projeto](#requisitos-do-projeto)
   - [1 - Criar listagem de produtos](#1-criar-listagem-de-produtos)
   - [2 - Adicione o produto ao carrinho de compras](#2-adicione-o-produto-ao-carrinho-de-compras)
